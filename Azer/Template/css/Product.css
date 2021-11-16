@@ -1,0 +1,57 @@
+h1{
+    text-align: center;
+    color: rgb(23, 126, 211);
+    margin: 30px 0 50px;
+}
+
+/*div img:hover{
+    transform: scale(1.1);
+
+
+}*/
+p.img{
+    width: 300px;
+    height: 300px;
+}
+
+.container{
+    width: 800px;
+    margin: 50px;
+    display: table;
+}
+.row{
+    margin: 10px;
+}
+.column{
+    display: table-cell;
+    padding: 45px;
+    width: 33.33333%;
+    
+}
+
+.column p1{
+    padding: 50px;
+    position: relative;
+    top: 50%;
+    left: 50%;
+}
+button{
+    position:absolute;
+    
+}
+
+/*body {
+    background-image: url('ASSETS/image/background.png');
+    background-repeat: no-repeat;
+  }
+*/
+select{
+    position: relative;
+    top: 80PX;
+    
+
+}
+
+
+
+
